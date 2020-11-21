@@ -3,6 +3,7 @@
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joanna-pham/) 
 
+## Stats :chart_with_upwards_trend:
 ![Joanna's github stats](https://github-readme-stats.vercel.app/api?username=joanna-pham&theme=tokyonight&show_icons=true)
 
 <!--
