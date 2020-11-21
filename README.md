@@ -3,7 +3,7 @@
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joanna-pham/) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanna-pham&layout=compact)
+![Joanna's github stats](https://github-readme-stats.vercel.app/api?username=joanna-pham&theme=toykonight&show_icons=true)
 
 <!--
 **joanna-pham/joanna-pham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
