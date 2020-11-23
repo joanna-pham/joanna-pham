@@ -4,8 +4,10 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joanna-pham/) 
 
 ## Stats :chart_with_upwards_trend:
+<p align = "center">
 ![Joanna's github stats](https://github-readme-stats.vercel.app/api?username=joanna-pham&theme=tokyonight&show_icons=true)
 ![Joanna's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joanna-pham&hide=css&theme=tokyonight)
+  </p>
 
 <!--
 **joanna-pham/joanna-pham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
