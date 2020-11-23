@@ -5,6 +5,7 @@
 
 ## Stats :chart_with_upwards_trend:
 ![Joanna's github stats](https://github-readme-stats.vercel.app/api?username=joanna-pham&theme=tokyonight&show_icons=true)
+![Joanna's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joanna-pham&hide=css&theme=tokyonight)
 
 <!--
 **joanna-pham/joanna-pham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
