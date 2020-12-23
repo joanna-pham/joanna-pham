@@ -1,4 +1,4 @@
-![image](banner.gif)
+![image](header-banner.gif)
 
 - 💬 Ask me about ANYTHING!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joanna-pham/) 
