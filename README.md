@@ -1,6 +1,6 @@
 ![image](banner.gif)
 
-- 💬 Ask me about ANYTHING
+- 💬 Ask me about ANYTHING!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joanna-pham/) 
 
 ## Stats :chart_with_upwards_trend:
